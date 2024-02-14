@@ -29,6 +29,9 @@ In this course I learned so far -
 - How to jupyer notebook to the github
 - How to build a package
 
+## Adding Image/Logo
+So this course is under the University of Tennessee Knoxville ![alt text](https://brand.utk.edu/wp-content/uploads/2019/02/University-CenteredLogo-RGB.png) and taught gracefully by Dr. Wu.
+
 
 ## Python Example 1:
 ```Python
