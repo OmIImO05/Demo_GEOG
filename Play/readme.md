@@ -62,4 +62,4 @@ You can subscribe and follow the Open Geospatial Solution for the detail demonst
 
 <a href="https://www.youtube.com/@giswqs
 " target="_blank"><img src="Open Geospatial Solutions.png" 
-alt="Open Geospatial Solutions" width="380" height="180" border="10" /></a>
+alt="Open Geospatial Solutions" width="620" height="300" border="10" /></a>
